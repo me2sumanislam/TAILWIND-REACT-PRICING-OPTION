@@ -15,7 +15,7 @@ import { Menu, X } from 'lucide-react';
 
 
    return (
-     <nav className='flex justify-between mx-7'>
+     <nav className='flex justify-between mx-10'>
         {/* span ar modhe toggle korte chachi span ar modhe akta array function dilam  */}
        <span className='flex' onClick={() => setOpen(!open) }>
          { open ?
@@ -24,7 +24,10 @@ import { Menu, X } from 'lucide-react';
          <Menu className='md:hidden'></Menu>
 
          }
-         <ul className='md:hidden'>
+         {/* toggle click korle aste kore niche asbe  abar cross korle upre utbe */}
+         <ul className={`md:hidden absolute duration-1000  text-black
+           ${open ? ' top-8' : '-top-40'}
+             bg-amber-200`}>
             {/* icone toggle  jonno aikahe ar akta same nav dilam  */}
             {link}
          </ul>
