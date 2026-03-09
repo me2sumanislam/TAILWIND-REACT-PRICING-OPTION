@@ -1,0 +1,67 @@
+ [
+  {
+    "id": 1,
+    "name": "Basic",
+    "description": "Rayhan Fitness - Budget-friendly gym with standard equipment suitable for beginners and casual trainers.",
+    "price": "1000 BDT/month",
+    "features": [
+      "Gym equipment access",
+      "Locker available",
+      "Daytime access (9 AM - 5 PM)",
+      "No personal trainer",
+      "No group classes",
+      "No AC",
+      "No nutrition plan",
+      "No spa facilities",
+      "Free Wi-Fi"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Standard",
+    "description": "Rayhan Fitness - Budget-friendly gym with standard equipment suitable for beginners and casual trainers.",
+    "price": "1500 BDT/month",
+    "features": [
+      "Full gym equipment access",
+      "Locker available",
+      "Group classes included",
+      "Limited personal trainer support",
+      "AC available",
+      "Daytime + evening access",
+      "Basic nutrition guidance",
+      "No spa facilities",
+      "Free Wi-Fi"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium",
+    "description": "Rayhan Fitness - Budget-friendly gym with standard equipment suitable for beginners and casual trainers.",
+    "price": "2500 BDT/month",
+    "features": [
+      "Full gym access 24/7",
+      "Locker & shower available",
+      "Group classes included",
+      "Personal trainer included",
+      "AC available",
+      "Advanced nutrition guidance",
+      "Spa / Sauna available",
+      "Free Wi-Fi",
+      "Priority customer support"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Basic",
+    "description": "Fitness Iron Gym - Mid-range gym with modern machines and good environment for workouts.",
+    "price": "1200 BDT/month",
+    "features": [
+      "Gym access during daytime",
+      "Locker available",
+      "No personal trainer",
+      "No group classes",
+      "AC available",
+      "Free Wi-Fi"
+    ]
+  }
+]
