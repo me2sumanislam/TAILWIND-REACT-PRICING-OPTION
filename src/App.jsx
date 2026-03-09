@@ -18,7 +18,7 @@ function App() {
     <header> 
 
        <Navbar></Navbar>
-       {/* <Daisyui></Daisyui> */}
+ 
 
 
        </header>
